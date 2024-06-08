@@ -1,6 +1,6 @@
 {
   "main": "http://fi3.bot-hosting.net:20536",
-  "gpt": "http://de1.bot-hosting.net:20149/",
+  "gpt": "http://de1.bot-hosting.net:20149",
   "alldl": "http://de1.bot-hosting.net:20149",
   "name": "api",
   "name": "api"
