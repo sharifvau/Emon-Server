@@ -2,7 +2,7 @@
   "name": "EMon-BHai 10X",
   "version": "3.0.1",
   "description": "",
-  "main": "system/catalogs/ryukoA.js",
+  "main": "system/catalogs/Emona.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
