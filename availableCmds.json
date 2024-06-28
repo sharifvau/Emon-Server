@@ -7,6 +7,12 @@
       "status": "on"
     },
     {
+      "cmd": "igPrefix",
+      "author": "EMON",
+      "update": "28/06/2024",
+      "status": "on"
+    },
+    {
       "cmd": "name",
       "author": "credit",
       "update": "26/06/2024",
