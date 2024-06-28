@@ -2,21 +2,16 @@
   "cmdName": [
     {
       "cmd": "4k",
-      "author": "nayan",
-      "update": "28/06/2034",
+      "emon": "nayan",
+      "emon2": "28/06/2034",
       "status": "on"
     },
     {
       "cmd": "igPrefix",
-      "author": "EMON",
-      "update": "28/06/2024",
-      "status": "on"
-    },
-    {
-      "cmd": "name",
-      "author": "credit",
-      "update": "26/06/2024",
+      "emon": "EMON",
+      "emon2": "28/06/2024",
       "status": "on"
     }
+  
   ]
 }
