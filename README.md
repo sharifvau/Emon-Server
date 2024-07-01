@@ -1,8 +1,9 @@
 # Emon-Server 
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2sharifvau%2FEmon-Server&title=Visitors&edge_flat=false"/></a>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsharifvau%2FEmon-Server&title=Visitors&edge_flat=false"/>
 </p>
+
 
 
 <p>
