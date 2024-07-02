@@ -2,7 +2,7 @@
     "name": "Emon",
     "version": "6.0.1",
     "description": "simple messenger bot",
-    "main": "",
+    "main": "Emon/catalogs/Emona.js",
     "scripts": {
         "start": "node --trace-warnings --use_strict --async-stack-traces Emon/catalogs/Emona.js",
         "login": "node login",
