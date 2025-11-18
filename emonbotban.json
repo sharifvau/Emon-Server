@@ -1,12 +1,14 @@
-{
-"uid1": {
-        "reason": "galibaj",
-        "dateAdded": "07/05/2024"   
-    }
-},
-{
-"100043455154022": {
-         "reason": "badboy",
-         "dateAdded": "11/11/2025"
-        }
-}
+[
+  {
+    "uid": "100011112222333",
+    "reason": "Spam commands",
+    "addedBy": "100075290587473",
+    "date": "2025-02-11 03:00"
+  },
+  {
+    "uid": "100043455154022",
+    "reason": "Abusing bot rules",
+    "addedBy": "100075290587473",
+    "date": "2025-02-11 03:12"
+  }
+]
