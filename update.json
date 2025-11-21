@@ -20,9 +20,9 @@
       "Optimized CPU usage"
     ],
     "update_files": [
-      "main.js",
-      "main/system/listen.js",
-      "package.json"
+      "",
+      "",
+      ""
     ]
   },
 
